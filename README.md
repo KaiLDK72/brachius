@@ -1,2 +1,2 @@
 # brachius
-Very Small Tool to generate easily Accordeon Lists.
+Very Very Small Tool to generate easily Accordeon Lists.
